@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
 import kickstart from "../assets/projects/kickstart.png";
-
 const Projects = () => {
   return (
     <Container fluid className="project-section">
