@@ -22,8 +22,8 @@ const Projects = () => {
               isBlog={false}
               title="ShopVista"
               description="Developed a platform empowers users to seamlessly browse, shop, and checkout, while providing store owners with the flexibility to customize site pages and manage product listings effortlessly through an intuitive admin dashboard. Implemented a robust checkout system powered by PayPal, ensuring secure and hassle-free transactions for users while maintaining the highest standards of payment security."
-              ghLink="https://github.com/aaayushsharma/ecommerce-app"
-              demoLink="https://ayush-ecommerce.onrender.com/"
+              ghLink="https://github.com/aaayushsharma/shopvista"
+              demoLink="https://github.com/aaayushsharma/shopvista"
             />
           </Col>
 
