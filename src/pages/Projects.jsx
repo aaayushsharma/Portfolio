@@ -43,7 +43,6 @@ const Projects = () => {
               title="Chat-app"
               description=" Developed a real-time messaging platform that revolutionizes communication by leveraging the power of Socket.IO for seamless, bidirectional data exchange."
               ghLink="https://github.com/aaayushsharma/chatapp"
-{/*               demoLink="https://ayush-ecommerce.onrender.com/" */}
             />
           </Col>
           <Col md={6} className="project-card">
